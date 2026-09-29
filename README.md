@@ -25,9 +25,7 @@ The practicum covers fundamental programming and algorithm concepts, data object
 
 ```text
 programming-algorithms-practicum/
-│
 ├── README.md
-│
 ├── module-01/
 ├── module-02/
 ├── module-03/
