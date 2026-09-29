@@ -56,3 +56,9 @@ Through this practicum, I developed skills in:
 This repository is part of my undergraduate Statistics coursework at Universitas Islam Indonesia (UII).
 
 It serves as a documentation of my learning process, practical implementations, and progress in developing programming and statistical computing skills using R.
+
+## Reference
+
+The practical exercises and learning materials in this repository are based on the following course module:
+
+**Rahmadi Yotenka & Sekti Kartika Dini. (2021). _Modul Praktikum Algoritma Pemrograman dengan R_.**
